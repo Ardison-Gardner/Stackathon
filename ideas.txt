@@ -2,4 +2,8 @@ Stack-a-thon Ideas
 
 1 - Alumni Engagement App
 
-USER STORY: 
+USER STORY: A user creates an account wherein they provide the institutions from which they have graduated from. They are placed in a database that associates them with those institutions and with other users who have graduated from or worked at them. The user can then create a pin on a map for an event. They can give the event a name, paid entry or free, location, time, purpose (networking, flash interviews, etc.), and a short description. An email and/or text alert is then sent out to fellow alumni within the same city/certain distance from the event. They can then confirm attendance, express interest, or ignore. Viewing the event after creation allows for cancellation by the creator, and will display a list of people attending.
+
+2 - Plicktago!
+
+USER STORY: A user starts the program and can start a new game, load a saved game, or begin a multiplayer game. Pentago is played similarly to tic tac toe - player alternate
